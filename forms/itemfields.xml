@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <field
+					name="startnumber"
+					type="text"
+					label="MOD_GWS_ANIMATED_COUNTER_START_NUMBER"
+					description="MOD_GWS_ANIMATED_COUNTER_START_NUMBER_DESCRIPTION"
+					filter="int"
+				/>
+        
+        <field
+					name="endnumber"
+					type="text"
+					label="MOD_GWS_ANIMATED_COUNTER_END_NUMBER"
+					description="MOD_GWS_ANIMATED_COUNTER_END_NUMBER_DESCRIPTION"
+					filter="int"
+				/>
+
+	<field
+			name="sidetext"
+			type="text"
+			label="MOD_GWS_ANIMATED_COUNTER_SIDE_TEXT"
+			description="MOD_GWS_ANIMATED_COUNTER_SIDE_TEXT_DESCRIPTION"
+	/>
+        
+        <field
+					name="secondline"
+					type="text"
+					label="MOD_GWS_ANIMATED_COUNTER_SECOND_LINE"
+					description="MOD_GWS_ANIMATED_COUNTER_SECOND_LINE_DESCRIPTION"
+				/>
+        
+        <field
+					name="step"
+					type="text"
+					label="MOD_GWS_ANIMATED_COUNTER_STEP"
+					description="MOD_GWS_ANIMATED_COUNTER_STEP_DESCRIPTION"
+					filter="int"
+				/>
+        
+        <field
+					name="delay"
+					type="text"
+					label="MOD_GWS_ANIMATED_COUNTER_DELAY"
+					description="MOD_GWS_ANIMATED_COUNTER_DELAY_DESCRIPTION"
+					filter="int"
+				/>
+</form>
